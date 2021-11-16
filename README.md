@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with front-end and back-end at Yalo...
 - 🌱 I’m currently learning Flutter and Typescript
-- 😄 Pronouns: him/his 
+- 😄 Pronouns: he/him 
 
 <div align="center">
   <a href="https://github.com/engpedromartins">
