@@ -1,8 +1,6 @@
 ### Hello I'm Pedro Martins Full Stack Developer  👋
 
 - 🔭 I’m currently working with front-end and back-end at Yalo...
-- 🌱 I’m currently learning Flutter and Typescript
-- 😄 Pronouns: he/him 
 
 <div align="center">
   <a href="https://github.com/engpedromartins">
